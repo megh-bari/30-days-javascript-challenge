@@ -27,7 +27,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
      
 
 ## Progress
-- Day 1 : Completed
+- **Day 1:** Completed
 
 ## License
 
