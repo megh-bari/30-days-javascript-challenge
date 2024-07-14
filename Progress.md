@@ -7,9 +7,35 @@
    - `var`
    - `let`
    - `const`
+
 2. Data Types
    - String
    - Number
    - Boolean
    - Object
    - Array
+
+## Day 2: Operators:
+
+### Topics Covered
+1. Arithmetic Operators
+   - Addition (+)
+   - Subtraction (-)
+   - Multiplication (*)
+   - Division (/)
+   - Modulus (%)
+
+2.Assignment Operator
+   - Add and Assign (+=)
+   - Subtract and Assign (-=)
+   - Equal (=)
+   - Strict Equal (===)
+   - Not Equal (!=)
+
+3.Logical Operator
+   - Logical AND (&&)
+   - Logical OR (||)
+   - Logical NOT (!)
+
+4.Ternary Operator
+   - conditon ? exp1 : exp2

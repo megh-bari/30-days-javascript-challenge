@@ -9,6 +9,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 ## Structure
 
 - **Day 1:** Variables and Data Types
+- **Day 2:** Operators
 
 ## How to Use
 
@@ -28,6 +29,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 
 ## Progress
 - **Day 1:** [Completed](Progress.md)
+- **Day 2:** [Completed](Progress.md)
 
 ## License
 
