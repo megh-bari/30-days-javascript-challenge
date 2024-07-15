@@ -10,6 +10,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 
 - **Day 1:** Variables and Data Types
 - **Day 2:** Operators
+- **Day 2:** Control Structure
 
 ## How to Use
 
@@ -19,6 +20,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
    
    git clone https://github.com/megh-bari/30-days-javascript-challenge.git
    
+   ```
    
 3. Navigate to the specific day's challenge/project folder.
    
@@ -26,10 +28,12 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
      
      cd 30-days-javascript-challenge/day1
      
+     ```
 
 ## Progress
-- **Day 1:** [Completed](Progress.md)
-- **Day 2:** [Completed](Progress.md)
+- **Day 1:** [Completed - Variables and Data Types](progress.md#day-1-variables-and-data-types)
+- **Day 2:** [Completed - Operators](progress.md#day-2-operators)
+- **Day 3:** [Completed - Control Structures](progress.md#day-3-control-structures)
 
 ## License
 

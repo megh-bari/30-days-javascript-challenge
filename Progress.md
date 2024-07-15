@@ -39,3 +39,15 @@
 
 4.Ternary Operator
    - conditon ? exp1 : exp2
+
+## Day 3: Control Structures:
+
+### Topics Covered
+1. Conditional Statements
+   - if
+   - else
+   - else if
+   - switch
+
+2. Ternary Operator
+   - conditon ? exp1 : exp2
