@@ -31,9 +31,9 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
      ```
 
 ## Progress
-- **Day 1:** [Completed - Variables and Data Types](progress.md#day-1-variables-and-data-types)
-- **Day 2:** [Completed - Operators](progress.md#day-2-operators)
-- **Day 3:** [Completed - Control Structures](progress.md#day-3-control-structures)
+- **Day 1:** [Completed - Variables and Data Types](Progress.md#day-1-variables-and-data-types)
+- **Day 2:** [Completed - Operators](Progress.md#day-2-operators)
+- **Day 3:** [Completed - Control Structures](Progress.md#day-3-control-structures)
 
 ## License
 
