@@ -10,7 +10,8 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 
 - **Day 1:** Variables and Data Types
 - **Day 2:** Operators
-- **Day 2:** Control Structure
+- **Day 3:** Control Structure
+- **Day 4:** Loops
 
 ## How to Use
 
@@ -34,6 +35,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 1:** [Completed - Variables and Data Types](Progress.md#day-1-variables-and-data-types)
 - **Day 2:** [Completed - Operators](Progress.md#day-2-operators)
 - **Day 3:** [Completed - Control Structures](Progress.md#day-3-control-structures)
+- **Day 4:** [Completed - Loops](Progress.md#day-4-loops)
 
 ## License
 

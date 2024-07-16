@@ -51,3 +51,16 @@
 
 2. Ternary Operator
    - conditon ? exp1 : exp2
+
+## Day 4: Loops:
+
+### Topics Covered
+1. Loops
+   - for
+   - while
+   - do...while
+   - nested loop
+
+2. Control Statement
+   - break
+   - continue 
