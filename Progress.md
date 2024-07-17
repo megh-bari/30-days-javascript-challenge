@@ -64,3 +64,12 @@
 2. Control Statement
    - break
    - continue 
+
+## Day 5: Functions:
+
+### Topics Covered
+1. Function Declaration
+2. Function Expression
+3. Arrow Function 
+4. Function Parameters and Default Values
+5. Higher-Order Function
