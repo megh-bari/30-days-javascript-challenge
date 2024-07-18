@@ -12,6 +12,8 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 2:** Operators
 - **Day 3:** Control Structure
 - **Day 4:** Loops
+- **Day 5:** Functions
+- **Day 6:** Arrays
 
 ## How to Use
 
@@ -37,6 +39,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 3:** [Completed - Control Structures](Progress.md#day-3-control-structures)
 - **Day 4:** [Completed - Loops](Progress.md#day-4-loops)
 - **Day 5:** [Completed - Functions](Progress.md#day-5-functions)
+- **Day 6:** [Completed - Arrays](Progress.md#day-6-arrays)
 
 ## License
 

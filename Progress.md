@@ -73,3 +73,25 @@
 3. Arrow Function 
 4. Function Parameters and Default Values
 5. Higher-Order Function
+
+## Day 6: Arrays:
+
+### Topics Covered
+1. Array Creation and Access
+
+2. Array Methods (Basic)
+   - push()
+   - pop()
+   - shift()
+   - unshift()
+
+3. Array Methods (Intermidiate) 
+   - map()
+   - filter()
+   - reduce()
+
+4. Array Iteration
+   - for
+   - forEach
+
+5. Multi-Dimensional Array
