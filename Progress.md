@@ -95,3 +95,13 @@
    - forEach
 
 5. Multi-Dimensional Array
+
+## Day 7: Objects:
+
+### Topics Covered
+1. Object Creation and Access
+2. Object Methods
+3. Nested Objects and Array of Object 
+4. `this` keyword
+5. Object Iteration
+   - for..in
