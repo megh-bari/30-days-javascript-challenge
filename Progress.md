@@ -105,3 +105,12 @@
 4. `this` keyword
 5. Object Iteration
    - for..in
+
+## Day 8: ES6+ Features:
+
+### Topics Covered
+1. Template Literals
+2. Destructuring
+3. Spread & Rest Operator
+4. Default Parameters
+5. Enhanced Object Literals
