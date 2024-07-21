@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity 4</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        img {
+            border: 2px solid black;
+        }
+
+        button {
+            border: none;
+            background-color: rgb(0, 97, 252);
+            color: white;
+            padding: 20px 30px;
+            border-radius: 20px;
+            cursor: pointer;
+        }
+        .highlight {
+            background-color: yellow;
+            font-weight: bold;
+            padding: 10px 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <img id="old-img" src="old-img.gif" alt="old img" height="200px" width="200px">
+
+    <button onclick="myFun()">Click Here</button>
+
+    <p class="para">This is Paragraph</p>
+    <button onclick="addClass()">Add class</button>
+    <button onclick="removeClass()">Remove class</button>
+
+    <script>
+        function myFun() {
+            const newImg = document.getElementById('old-img')
+            newImg.src = 'new-img.gif'
+            newImg.style.height = '200px'
+            newImg.style.width = '200px'
+            newImg.alt = 'New Image';
+        }
+
+        function addClass() {
+            const add = document.querySelector('.para')
+            add.classList.add('highlight')
+        }
+
+        function removeClass(){
+            const remove = document.querySelector('.para')
+            remove.classList.remove('highlight')
+            
+        }
+    </script>
+</body>
+
+</html>

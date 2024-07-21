@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity 2</title>
+</head>
+
+<body class="bgc">
+
+    <ul id="my-list">
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+    </ul>
+
+
+    <script>
+        const bgc = document.querySelector('.bgc')
+        bgc.style.backgroundColor = '#212121';
+
+        const div = document.createElement('div')
+        div.textContent = 'This is new Div'
+        document.body.appendChild(div);
+        div.style.color = '#ffff'
+
+        const li = document.createElement('li')
+        li.textContent = '4'
+        li.style.color = '#ffff'   
+
+        const ul = document.getElementById('my-list')
+        ul.appendChild(li)
+    </script>
+</body>
+
+</html>

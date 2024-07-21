@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity 5</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        button {
+            border: none;
+            padding: 20px 20px;
+            background-color: rgb(52, 43, 226);
+            color: white;
+            border-radius: 20px;
+        }
+
+        #box {
+            width: 200px;
+            height: 200px;
+            border: 5px solid black;
+            transition: border-color 0.3s;
+        }
+    </style>
+</head>
+
+<body>
+    <p id="my-para">This is Paragraph</p>
+    <button type="submit" class="para">Click Here</button>
+
+
+    <div id="box"></div>
+
+    <script>
+        const changedPara = document.querySelector('.para')
+
+        changedPara.addEventListener('click', function (e) {
+            e.preventDefault()
+
+            const newpara = document.getElementById('my-para')
+            newpara.textContent = 'The Text has been changed!'
+        })
+
+        const box = document.getElementById('box')
+
+        box.addEventListener('mouseover', function () {
+
+            box.style.borderColor = 'red'
+            box.style.backgroundColor = 'yellow'
+        })
+
+        box.addEventListener('mouseout', function () {
+
+            box.style.borderColor = 'black'
+            box.style.backgroundColor = 'white'
+
+        })
+    </script>
+</body>
+
+</html>
