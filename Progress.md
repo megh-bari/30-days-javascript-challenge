@@ -114,3 +114,13 @@
 3. Spread & Rest Operator
 4. Default Parameters
 5. Enhanced Object Literals
+
+## Day 9: DOM Manipulation
+
+### Topics Covered
+1. Selecting
+2. Modifying
+3. Creating elements
+4. Removing elements
+5. Updating attributes/classes
+6. Event handling

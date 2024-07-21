@@ -16,6 +16,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 6:** Arrays
 - **Day 7:** Objects
 - **Day 8:** ES6+ Features
+- **Day 9:** DOM Manupulation
 
 ## How to Use
 
@@ -36,6 +37,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
      ```
 
 ## Progress
+
 - **Day 1:** [Completed - Variables and Data Types](Progress.md#day-1-variables-and-data-types)
 - **Day 2:** [Completed - Operators](Progress.md#day-2-operators)
 - **Day 3:** [Completed - Control Structures](Progress.md#day-3-control-structures)
@@ -44,6 +46,8 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 6:** [Completed - Arrays](Progress.md#day-6-arrays)
 - **Day 7:** [Completed - Objects](Progress.md#day-7-objects)
 - **Day 8:** [Completed - ES6+ Features](Progress.md#day-8-es6-features)
+- **Day 9:** [Completed - DOM Manipulation](Progress.md#day-9-dom-manipulation)
+
 
 ## License
 
