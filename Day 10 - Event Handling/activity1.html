@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=`">
+    <title>Activity 1</title>
+</head>
+
+<body>
+    <p class="para">This is Paragraph</p>
+    <button id="click-para">Click</button>
+
+    <img id="imageToToggle" src="code.avif" height="200px" alt="Sample Image" style="display: block;">
+    <button id="toggleImageButton">Double click</button>
+
+    <script>
+        const para = document.querySelector('.para')
+        const button = document.querySelector('#click-para')
+        button.addEventListener('click', function () {
+            para.innerHTML = 'This is new paragraph'
+        })
+
+        const toggleImg = document.querySelector('#imageToToggle');
+        const togglebtn = document.querySelector('#toggleImageButton');
+
+        togglebtn.addEventListener('dblclick', function () {
+            if (toggleImg.style.visibility === 'hidden') {
+                toggleImg.style.visibility = 'visible';
+               alert('Img is visible');
+            } else {
+                toggleImg.style.visibility = 'hidden';
+               alert('Img is hidden');
+            }
+        });
+
+    </script>
+</body>
+
+</html>

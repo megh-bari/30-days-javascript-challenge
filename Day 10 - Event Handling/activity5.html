@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity 5</title>
+</head>
+<body>
+    <ul id="itemList">
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+        <li>Item 4</li>
+        <li>Item 5</li>
+    </ul>
+
+
+    <button id="addItemButton">Add Item</button>
+    <ul id="itemList">
+        <li>Item 1</li>
+        <li>Item 2</li>
+    </ul>
+
+
+    <script>
+        const itemList = document.querySelector('#itemList');
+
+        itemList.addEventListener('click', function(event) {
+            if (event.target.tagName === 'LI') {
+                console.log('Clicked item text:', event.target.textContent);
+            }
+        });
+
+
+        const itemListNew = document.querySelector('#itemList');
+        const addItemButton = document.querySelector('#addItemButton');
+        let itemCount = 2;
+
+        
+        itemListNew.addEventListener('click', function(event) {
+            if (event.target.tagName === 'LI') {
+                console.log('Clicked item text:', event.target.textContent);
+            }
+        });
+        
+        addItemButton.addEventListener('click', function() {
+            itemCount++;
+            const newItem = document.createElement('li');
+            newItem.textContent = `Item ${itemCount}`;
+            itemListNew.appendChild(newItem);
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity 3</title>
+</head>
+<body>
+    <form>
+        <label for="name">Enter Name:</label>
+        <input type="text" id="name">
+    </form>
+    <p id="keyDisplay">Press a key...</p>
+    <script>
+        const inputField = document.querySelector('#name');
+        const keyDisplay = document.querySelector('#keyDisplay');
+        
+        inputField.addEventListener('keydown', function(event) {
+            console.log(`Key down: ${event.key}`);
+        });
+
+        inputField.addEventListener('keyup', function(event) {
+            keyDisplay.textContent = `Key released: ${event.key}`;
+        });
+    </script>
+</body>
+</html>

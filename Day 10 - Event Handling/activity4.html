@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity 4</title>
+</head>
+<body>
+    <form id="form">
+        <label for="value">Enter Something:</label>
+        <input type="text" id="value">
+        <button type="submit">Submit</button>
+        <p class="para"></p>
+        <label for="options">Choose an option:</label>
+        <select id="options">
+            <option value="Option 1">Option 1</option>
+            <option value="Option 2">Option 2</option>
+            <option value="Option 3">Option 3</option>
+        </select>
+        <p class="selected-value"></p>
+    </form>
+
+    <script>
+        const form = document.querySelector('#form');
+        const input = document.querySelector('#value');
+        const para = document.querySelector('.para');
+        const select = document.querySelector('#options');
+        const selectedValuePara = document.querySelector('.selected-value');
+
+        form.addEventListener('submit', function(event) {
+            event.preventDefault();
+            console.log("default prevented");
+            if (input.value.trim() === '') {
+                para.innerHTML = 'You cannot submit empty values';
+            } else {
+                para.innerHTML = '';
+                console.log("Form data:", input.value);
+            }
+        });
+
+        select.addEventListener('change', function() {
+            selectedValuePara.innerHTML = `Selected value: ${select.value}`;
+        });
+    </script>
+</body>
+</html>
