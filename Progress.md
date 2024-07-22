@@ -124,3 +124,12 @@
 4. Removing elements
 5. Updating attributes/classes
 6. Event handling
+
+## Day 10: Event Handling
+
+### Topics Covered
+1. Basic Event Handling
+2. Mouse Event
+3. Keyboard Event
+4. Form Event
+5. Event Delegation
