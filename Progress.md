@@ -133,3 +133,13 @@
 3. Keyboard Event
 4. Form Event
 5. Event Delegation
+
+## Day 11: Promises and Async and Awaits
+
+### Topics Covered
+1. Understanding Promises
+2. Creating Promises
+3. Chaining Promises
+4. async/await
+5. Fetching data from APIs
+6. Concurrent Promises

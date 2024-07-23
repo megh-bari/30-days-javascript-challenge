@@ -18,24 +18,25 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 8:** ES6+ Features
 - **Day 9:** DOM Manupulation
 - **Day 10:** Event Handling
+- **Day 11:** Promises and Async/Awaits
 
 ## How to Use
 
 1. Clone this repository.
-   
+
    ```bash
-   
+
    git clone https://github.com/megh-bari/30-days-javascript-challenge.git
-   
+
    ```
-   
-3. Navigate to the specific day's challenge/project folder.
-   
-     ```bash
-     
-     cd 30-days-javascript-challenge/day1
-     
-     ```
+
+2. Navigate to the specific day's challenge/project folder.
+
+   ```bash
+
+   cd 30-days-javascript-challenge/day1
+
+   ```
 
 ## Progress
 
@@ -49,14 +50,14 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 8:** [Completed - ES6+ Features](Progress.md#day-8-es6-features)
 - **Day 9:** [Completed - DOM Manipulation](Progress.md#day-9-dom-manipulation)
 - **Day 10:** [Completed - Event Handling](Progress.md#day-10-event-handling)
-
+- **Day 11:** [Completed - Promises and Async/Awaits](Progress.md#day-11-promises-and-async-and-awaits)
 
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
-## Author 
- This repo is maintained by @ Megh bari.
+## Author
+
+This repo is maintained by @ Megh bari.
 
 ## Happy Coding 🎈
-
