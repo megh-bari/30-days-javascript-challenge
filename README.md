@@ -19,6 +19,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 9:** DOM Manupulation
 - **Day 10:** Event Handling
 - **Day 11:** Promises and Async/Awaits
+- **Day 12:** Error Handling
 
 ## How to Use
 
@@ -51,6 +52,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 9:** [Completed - DOM Manipulation](Progress.md#day-9-dom-manipulation)
 - **Day 10:** [Completed - Event Handling](Progress.md#day-10-event-handling)
 - **Day 11:** [Completed - Promises and Async/Awaits](Progress.md#day-11-promises-and-async-and-awaits)
+- **Day 12:** [Completed - Error Handling](Progress.md#day-12-error-handling)
 
 ## License
 

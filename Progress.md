@@ -143,3 +143,12 @@
 4. async/await
 5. Fetching data from APIs
 6. Concurrent Promises
+
+## Day 12: Error Handling
+
+### Topics Covered
+1. try-catch
+2. Finally Block
+3. Custom Error Objects
+4. Handling errors in Promises
+5. Graceful error handling in fetch API
