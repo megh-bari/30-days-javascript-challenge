@@ -152,3 +152,12 @@
 3. Custom Error Objects
 4. Handling errors in Promises
 5. Graceful error handling in fetch API
+
+## Day 13: Modules
+
+### Topics Covered
+1. Creating and exporting modules
+2. Named and Default Exports
+3. Importing Entire Modules
+4. Using Third-Party Modules
+5. Modules Bundling
