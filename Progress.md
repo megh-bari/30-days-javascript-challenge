@@ -161,3 +161,12 @@
 3. Importing Entire Modules
 4. Using Third-Party Modules
 5. Modules Bundling
+
+## Day 14: Classes
+
+### Topics Covered
+1. Class Defination
+2. Class Inheritance
+3. Static Methods and Properties
+4. Getters and Setters
+5. Private Fields
