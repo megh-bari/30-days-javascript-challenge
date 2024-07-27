@@ -170,3 +170,12 @@
 3. Static Methods and Properties
 4. Getters and Setters
 5. Private Fields
+
+## Day 15: Closures
+
+### Topics Covered
+1. Understanding Closures,
+2. Practical Closure
+3. Closure in Loops
+4. Module Pattern
+5. Memorization
