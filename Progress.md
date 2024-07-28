@@ -174,8 +174,16 @@
 ## Day 15: Closures
 
 ### Topics Covered
-1. Understanding Closures,
+1. Understanding Closures
 2. Practical Closure
 3. Closure in Loops
 4. Module Pattern
 5. Memorization
+
+## Day 16: Recursion
+
+### Topics Covered
+1. Basic Recursion
+2. Recursion with Array
+3. String Manipulation with Recursion
+4. Recursive Search

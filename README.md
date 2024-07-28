@@ -23,6 +23,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 13:** Modules
 - **Day 14:** Classes
 - **Day 15:** Closures
+- **Day 16:** Recursion
 
 ## How to Use
 
@@ -59,6 +60,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 13:** [Completed - Modules](Progress.md#day-13-modules)
 - **Day 14:** [Completed - Classes](Progress.md#day-14-classes)
 - **Day 15:** [Completed - Closures](Progress.md#day-15-closures)
+- **Day 16:** [Completed - Recursion](Progress.md#day-16-recursion)
 
 ## License
 
