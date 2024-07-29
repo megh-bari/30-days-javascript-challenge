@@ -187,3 +187,11 @@
 2. Recursion with Array
 3. String Manipulation with Recursion
 4. Recursive Search
+
+## Day 17: Data Structures
+
+### Topics Covered
+1. Linked List
+2. Stack
+3. Queue
+4. Binary Tree
