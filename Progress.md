@@ -195,3 +195,11 @@
 2. Stack
 3. Queue
 4. Binary Tree
+
+## Day 18: Algorithms 
+
+### Topics Covered
+1. Sorting Algorithms
+2. Searching Algorithms
+3. String Algorithms
+4. Array Algorithms

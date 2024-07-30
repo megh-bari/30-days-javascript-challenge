@@ -25,6 +25,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 15:** Closures
 - **Day 16:** Recursion
 - **Day 17:** Data Structures
+- **Day 18:** Algorithms
 
 ## How to Use
 
@@ -63,6 +64,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 15:** [Completed - Closures](Progress.md#day-15-closures)
 - **Day 16:** [Completed - Recursion](Progress.md#day-16-recursion)
 - **Day 17:** [Completed - Data Structures](Progress.md#day-17-data-structures)
+- **Day 18:** [Completed - Algorithms](Progress.md#day-18-algorithms)
 
 ## License
 
