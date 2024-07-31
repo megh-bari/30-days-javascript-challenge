@@ -26,6 +26,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 16:** Recursion
 - **Day 17:** Data Structures
 - **Day 18:** Algorithms
+- **Day 19:** Regular Expressions
 
 ## How to Use
 
@@ -65,6 +66,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 16:** [Completed - Recursion](Progress.md#day-16-recursion)
 - **Day 17:** [Completed - Data Structures](Progress.md#day-17-data-structures)
 - **Day 18:** [Completed - Algorithms](Progress.md#day-18-algorithms)
+- **Day 19:** [Completed - Regular Expressions](Progress.md#day-19-regular-expressions)
 
 ## License
 

@@ -203,3 +203,12 @@
 2. Searching Algorithms
 3. String Algorithms
 4. Array Algorithms
+
+## Day 19: Regular Expressions 
+
+### Topics Covered
+1. Basic Regular Expressions
+2. Character Classes & Quantifiers 
+3. Grouping and Capturing
+4. Assertions and Boundaries
+5. Practical Applications
