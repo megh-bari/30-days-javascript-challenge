@@ -1,0 +1,54 @@
+<!-- Activity 5 -->
+
+<!-- Task 9 -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity 5</title>
+</head>
+
+<body>
+    <h2>Activity 5 </h2>
+    <h3>Open console </h3>
+
+    <script>
+        function saveToBothStorages(key, value) {
+
+            localStorage.setItem(key, value);
+
+
+            sessionStorage.setItem(key, value);
+
+            const localStorageValue = localStorage.getItem(key);
+
+
+            const sessionStorageValue = sessionStorage.getItem(key);
+
+
+            console.log(`LocalStorage: ${localStorageValue}`);
+            console.log(`SessionStorage: ${sessionStorageValue}`);
+        }
+
+        saveToBothStorages('name', 'Megh Bari');
+
+        // Task 10
+
+        function clearAllDataFromStroages() {
+        
+            localStorage.clear();
+
+            sessionStorage.clear();
+
+
+            console.log(`LocalStorage: ${localStorage.length}`);
+            console.log(`SessionStorage: ${sessionStorage.length}`);
+        }
+
+    </script>
+</body>
+
+</html>

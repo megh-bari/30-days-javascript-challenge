@@ -1,0 +1,41 @@
+<!-- Activity 1: Understanding LocalStorage -->
+
+<!-- Task 1 -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acitivy 1</title>
+</head>
+
+<body>
+    <h2>Check Console</h2>
+
+    <script>
+        localStorage.setItem('name', 'Megh Bari');
+
+        // Retrieve the saved value from `localStorage`
+        const name = localStorage.getItem('name');
+
+        // Log the retrieved value
+        console.log(name);  
+
+        // Task 2
+
+        const user = {
+            name: "Megh Bari",
+            id: 1234,
+            age: 18
+        }
+
+        localStorage.setItem('user', JSON.stringify(user))
+        const retrievedSavedUser = localStorage.getItem('user')
+        const savedUser = JSON.parse(retrievedSavedUser)
+    </script>
+</body>
+
+</html>

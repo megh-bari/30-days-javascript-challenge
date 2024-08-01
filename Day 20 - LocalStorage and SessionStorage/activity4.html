@@ -1,0 +1,65 @@
+<!-- Activity 4 -->
+
+<!-- Task 7 -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity 4</title>
+</head>
+
+<body>
+    <form action="">
+        <label for="name">Name:</label>
+        <input type="text" name="name" id="name">
+
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email">
+
+        <button type="button" onclick="event.preventDefault(); saveData()">Submit</button>
+    </form>
+    <p id="display"></p>
+
+    <script>
+        window.onload = function () {
+            const storedName = sessionStorage.getItem('name');
+            const storedEmail = sessionStorage.getItem('email');
+
+            if (storedName && storedEmail) {
+                document.getElementById('name').value = storedName;
+                document.getElementById('email').value = storedEmail;
+
+                document.getElementById('display').innerText = `Name: ${storedName}, Email: ${storedEmail}`;
+            }
+        }
+
+        function saveData() {
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+
+            sessionStorage.setItem('name', name);
+            sessionStorage.setItem('email', email);
+
+            document.getElementById('display').innerText = `Name: ${name}, Email: ${email}`;
+
+            // Clear the input fields
+            document.getElementById('name').value = '';
+            document.getElementById('email').value = '';
+        }
+
+        // Task 8
+
+        sessionStorage.setItem('name', 'Megh');
+
+        console.log('Before removal:', sessionStorage);
+
+        sessionStorage.removeItem('name');
+
+        console.log('After removal:', sessionStorage);
+    </script>
+</body>
+
+</html>

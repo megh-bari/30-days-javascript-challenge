@@ -1,0 +1,39 @@
+<!-- /Activity 3 -->
+
+<!-- Task 5 -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity 3</title>
+</head>
+
+<body>
+    <h2>Task 5</h2>
+
+    <script>
+        sessionStorage.setItem('name', 'Megh Bari');
+
+        const name = sessionStorage.getItem('name');
+
+        console.log(name);
+
+        const user = {
+            name: 'Megh Bari',
+            id: 1234,
+            age: 18
+        }
+
+        sessionStorage.setItem('user', JSON.stringify(user))
+
+        const result = sessionStorage.getItem('user')
+
+        const savedData = JSON.parse(result)
+        console.log(savedData)
+    </script>
+</body>
+
+</html>

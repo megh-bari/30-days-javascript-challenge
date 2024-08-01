@@ -1,0 +1,59 @@
+<!-- Activity 2: Using LocalStorage -->
+
+<!-- Task 3 -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity 2</title>
+
+</head>
+
+<body>
+    <h1>Form</h1>
+
+    <form action="">
+        <label for="name">Name:</label>
+        <input type="text" name="name" id="name">
+
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email">
+
+        <button type="submit" onclick="event.preventDefault(); saveData()">Submit</button>
+    </form>
+
+    <p id="display"></p>
+
+    <script>
+        window.onload = function () {
+            const name = localStorage.getItem('name')
+            const email = localStorage.getItem('email')
+
+            if (name && email) {
+                document.getElementById('name').value = name
+                document.getElementById('email').value = email
+
+                document.getElementById('display').innerHTML = `Name: ${name}, Email: ${email}`
+            }
+        }
+
+        function saveData() {
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+
+            localStorage.setItem('name', name);
+            localStorage.setItem('email', email);
+
+            document.getElementById('display').innerText = `Name: ${name}, Email: ${email}`;
+
+            // Clear the input fields
+            document.getElementById('name').value = '';
+            document.getElementById('email').value = '';
+        }
+    </script>
+</body>
+
+</html>
