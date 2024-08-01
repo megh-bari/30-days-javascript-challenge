@@ -27,6 +27,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 17:** Data Structures
 - **Day 18:** Algorithms
 - **Day 19:** Regular Expressions
+- **Day 20:** LocalStorage and SessionStorage
 
 ## How to Use
 
@@ -67,6 +68,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 17:** [Completed - Data Structures](Progress.md#day-17-data-structures)
 - **Day 18:** [Completed - Algorithms](Progress.md#day-18-algorithms)
 - **Day 19:** [Completed - Regular Expressions](Progress.md#day-19-regular-expressions)
+- **Day 20:** [Completed - LocalStorage and SessionStorage](Progress.md#day-20-localstorage-and-sessionstorage)
 
 ## License
 

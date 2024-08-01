@@ -212,3 +212,12 @@
 3. Grouping and Capturing
 4. Assertions and Boundaries
 5. Practical Applications
+
+## Day 20: LocalStorage and SessionStorage 
+
+### Topics Covered
+1. Understanding LocalStorage
+2. Using LocalStorage
+3. Using SessionStorage
+4. Understanding SessionStorage
+5. Comparing LocalStorage and SessionStorages 
