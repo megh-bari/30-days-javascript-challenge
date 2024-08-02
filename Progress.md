@@ -221,3 +221,12 @@
 3. Using SessionStorage
 4. Understanding SessionStorage
 5. Comparing LocalStorage and SessionStorages 
+
+## Day 21: LeetCode Easy
+
+### Solved Problem on
+1. Two Sum
+2. Reverse Integer
+3. Palindrome Number
+4. Merge Two Sorted Lists
+5. Valid Parentheses
