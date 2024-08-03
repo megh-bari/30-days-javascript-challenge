@@ -29,6 +29,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 19:** Regular Expressions
 - **Day 20:** LocalStorage and SessionStorage
 - **Day 21:** LeetCode Easy
+- **Day 22:** LeetCode Medium
 
 ## How to Use
 
@@ -71,6 +72,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 19:** [Completed - Regular Expressions](Progress.md#day-19-regular-expressions)
 - **Day 20:** [Completed - LocalStorage and SessionStorage](Progress.md#day-20-localstorage-and-sessionstorage)
 - **Day 21:** [Completed - LeetCode Easy](Progress.md#day-21-leetcode-easy)
+- **Day 22:** [Completed - LeetCode Medium](Progress.md#day-22-leetcode-medium)
 
 ## License
 

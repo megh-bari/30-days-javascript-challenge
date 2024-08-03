@@ -230,3 +230,12 @@
 3. Palindrome Number
 4. Merge Two Sorted Lists
 5. Valid Parentheses
+
+## Day 22: LeetCode Medium
+
+### Solved Problem on
+1. Add Two Numbers
+2. Longest Substring Without Repeating Character
+3. Container with Most Water
+4. 3Sum
+5. Group Anagrams
