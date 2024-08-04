@@ -239,3 +239,12 @@
 3. Container with Most Water
 4. 3Sum
 5. Group Anagrams
+
+## Day 23: LeetCode Hard
+
+### Solved Problem on
+1. Median of Two Sorted Array
+2. Merge k Sorted Lists
+3. Trapping Rain Water
+4. N-Queens
+5. Word Ladder
