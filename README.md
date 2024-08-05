@@ -31,6 +31,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 21:** LeetCode Easy
 - **Day 22:** LeetCode Medium
 - **Day 23:** LeetCode Hard
+- **Day 24:** Project 1: Weather App
 
 ## How to Use
 
@@ -75,6 +76,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 21:** [Completed - LeetCode Easy](Progress.md#day-21-leetcode-easy)
 - **Day 22:** [Completed - LeetCode Medium](Progress.md#day-22-leetcode-medium)
 - **Day 23:** [Completed - LeetCode Hard](Progress.md#day-23-leetcode-hard)
+- **Day 24:** [Completed - Project 1: Weather App](Progress.md#day-24-project-1-weather-app)
 
 ## License
 

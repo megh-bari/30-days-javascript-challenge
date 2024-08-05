@@ -248,3 +248,7 @@
 3. Trapping Rain Water
 4. N-Queens
 5. Word Ladder
+
+## Day 24: Project 1: Weather App
+
+- Repo: [Weather App](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2024%20-%20Weather%20App)
