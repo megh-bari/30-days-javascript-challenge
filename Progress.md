@@ -252,3 +252,7 @@
 ## Day 24: Project 1: Weather App
 
 - Repo: [Weather App](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2024%20-%20Weather%20App)
+
+## Day 25: Project 2: Movies Search App
+
+- Repo: [Movies Search App](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2025%20-%20Movie%20Search%20App)
