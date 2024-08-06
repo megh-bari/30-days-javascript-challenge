@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Movie Search App</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo">Movies Search</div>
+            <form id="search-form">
+                <input type="text" id="search-input" placeholder="Search for movies...">
+                <button class="btn" type="submit"><i class="fas fa-search"></i></button>
+            </form>
+        </nav>
+    </header>
+
+    <main>
+        <section id="popular-movies">
+            <h2>Popular Movies</h2>
+            <div class="movie-grid" id="popular-movies-grid"></div>
+        </section>
+
+        <section id="trending-movies">
+            <h2>Trending Movies</h2>
+            <div class="movie-grid" id="trending-movies-grid"></div>
+        </section>
+
+        <section id="search-results" class="hidden">
+            <h2>Search Results</h2>
+            <div class="movie-grid" id="search-results-grid"></div>
+        </section>
+    </main>
+    <div id="movie-details-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-body">
+                <img id="modal-poster" src="" alt="Movie Poster">
+                <h2 id="modal-title"></h2>
+                <p id="modal-overview"></p>
+                <p id="modal-rating"></p>
+                <p id="modal-release-date"></p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
