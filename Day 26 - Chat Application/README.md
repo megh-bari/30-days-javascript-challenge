@@ -20,6 +20,7 @@ To get started with the chat application, follow these steps:
    git clone https://github.com/megh-bari/30-days-javascript-challenge
 
    ```
+
 2. Navigate to the specific day's challenge/project folder.
 
    ```bash
@@ -30,9 +31,11 @@ To get started with the chat application, follow these steps:
 
 3. **Install Dependencies**
 
-   Navigate to both the `client` and `server` directories and run:
+   Open terminal and run:
 
    ```bash
+
+   npm init -y
 
    npm install ws
 
@@ -68,7 +71,7 @@ To get started with the chat application, follow these steps:
 
     wscat -c ws://localhost:8080
 
-    ```
+   ```
 
 ## Usage
 
@@ -85,7 +88,7 @@ To get started with the chat application, follow these steps:
 
 ## Contact
 
-For any questions or feedback, please contact me at [your-email@example.com](mailto:meghbari01@gmail.com).
+For any questions or feedback, please contact me at [Email](mailto:meghbari01@gmail.com).
 
 ## Author
 
