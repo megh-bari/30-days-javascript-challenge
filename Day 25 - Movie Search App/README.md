@@ -47,5 +47,6 @@ Feel free to reach out with any questions or feedback:
 
 - **GitHub**: [megh-bari](https://github.com/megh-bari)
 - **Twitter**: [@megh_bari](https://x.com/megh_bari)
+- **Email** : [meghbari01@gmail.com](mailto:meghbari01@gmail.com).
 
 Thank you for checking out the Movies Search App! Enjoy exploring movies! 🎬
