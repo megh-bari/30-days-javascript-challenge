@@ -88,7 +88,11 @@ To get started with the chat application, follow these steps:
 
 ## Contact
 
-For any questions or feedback, please contact me at [Email](mailto:meghbari01@gmail.com).
+Feel free to reach out with any questions or feedback:
+
+- **GitHub**: [megh-bari](https://github.com/megh-bari)
+- **Twitter**: [@megh_bari](https://x.com/megh_bari)
+- **Email**: [meghbari01@gmail.com](mailto:meghbari01@gmail.com).
 
 ## Author
 
