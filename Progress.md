@@ -256,3 +256,7 @@
 ## Day 25: Project 2: Movies Search App
 
 - Repo: [Movies Search App](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2025%20-%20Movie%20Search%20App)
+
+## Day 26: Project 3: Chat Application
+
+- Repo: [Chat Application](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2026%20-%20Chat%20Application)
