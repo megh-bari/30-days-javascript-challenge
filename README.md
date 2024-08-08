@@ -34,6 +34,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 24:** Project 1: Weather App
 - **Day 25:** Project 2: Movies Search App
 - **Day 26:** Project 3: Chat Application
+- **Day 27:** Project 4: Task Management App
 
 ## How to Use
 
@@ -81,6 +82,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 24:** [Completed - Project 1: Weather App](Progress.md#day-24-project-1-weather-app)
 - **Day 25:** [Completed - Project 2: Movies Search App](Progress.md#day-25-project-2-movies-search-app)
 - **Day 26:** [Completed - Project 3: Chat Application](Progress.md#day-26-project-3-chat-application)
+- **Day 27:** [Completed - Project 4: Task Management App](Progress.md#day-27-project-4-task-management-app)
 
 ## License
 
