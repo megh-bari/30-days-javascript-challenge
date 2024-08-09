@@ -264,3 +264,7 @@
 ## Day 27: Project 4: Task Management App
 
 - Repo: [Task Management App](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2027%20-%20Task%20Management%20App)
+
+## Day 28: Project 5: Ecommerce Website
+
+- Repo: [Task Management App](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2028%20-%20Ecommerce%20Website)
