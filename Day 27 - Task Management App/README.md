@@ -4,6 +4,8 @@
 
 The Task Management App is a simple and intuitive web application designed to help you manage and track your tasks. With this app, you can add new tasks, edit existing tasks, and delete tasks as needed. The app stores tasks locally in the browser's local storage, so your data persists across page reloads.
 
+## Preview: https://taskmanagementwebapp.netlify.app/
+
 ## Features
 
 - **Add Task**: Enter a title, description, and date to create a new task.

@@ -4,6 +4,8 @@
 
 Gadget Arena is a modern e-commerce website specializing in electronics and gadgets. Built with HTML, CSS, and JavaScript, it offers a seamless shopping experience for tech enthusiasts.
 
+## Preview: https://gadget-arena-site.netlify.app/
+
 ## Features
 
 - Dynamic product listing grouped by categories (Laptops, Gaming Devices, Mobiles)

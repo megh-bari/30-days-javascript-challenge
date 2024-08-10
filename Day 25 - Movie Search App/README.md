@@ -2,6 +2,8 @@
 
 Welcome to the Movies Search App! This project is part of the #30DaysJavaScriptChallenge. The app allows users to search for movies, view details, and explore their favorite films.
 
+## Preview: https://movies-search-webapp.netlify.app/
+
 ## Features
 
 - **Search Movies**: Find movies by title.

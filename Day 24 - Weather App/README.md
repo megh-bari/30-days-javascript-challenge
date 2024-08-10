@@ -2,6 +2,8 @@
 
 A simple and elegant weather application that provides current weather information for any city around the world. The app displays the temperature and weather condition (e.g., Sunny, Rainy, Cloudy) along with the current date and time.
 
+## Preview: https://weather-forcast-web-app.netlify.app/
+
 ## Features
 
 - **Real-time Weather Data:** Fetch current weather information for any city.

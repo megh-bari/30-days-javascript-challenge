@@ -2,6 +2,8 @@
 
 Welcome to the EchoSocial! This project is a simple social media dashboard web application. It allows users to sign up, create posts, and manage their account. The application uses HTML, CSS, and JavaScript, with local storage to persist posts and session storage to manage user sessions.
 
+## Preview: https://echosocial.netlify.app/
+
 ## Features
 
 - **User Authentication:** Secure login and sign-up functionality.
