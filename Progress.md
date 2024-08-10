@@ -267,4 +267,8 @@
 
 ## Day 28: Project 5: Ecommerce Website
 
-- Repo: [Task Management App](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2028%20-%20Ecommerce%20Website)
+- Repo: [Ecommerce Website](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2028%20-%20Ecommerce%20Website)
+
+## Day 29: Project 6: Soical Media Dashboard
+
+- Repo: [Soical Media Dashboard](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2029%20-%20Social%20Media%20Dashboard)

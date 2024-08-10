@@ -36,6 +36,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 26:** Project 3: Chat Application
 - **Day 27:** Project 4: Task Management App
 - **Day 28:** Project 5: Ecommerce Website
+- **Day 29:** Project 6: Soical Media Dashboard
 
 ## How to Use
 
@@ -85,6 +86,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 - **Day 26:** [Completed - Project 3: Chat Application](Progress.md#day-26-project-3-chat-application)
 - **Day 27:** [Completed - Project 4: Task Management App](Progress.md#day-27-project-4-task-management-app)
 - **Day 28:** [Completed - Project 5: Ecommerce Website](Progress.md#day-28-project-5-ecommerce-website)
+- **Day 29:** [Completed - Project 6: Soical Media Dashboard](Progress.md#day-29-project-6-social-media-dashboard)
 
 ## License
 
