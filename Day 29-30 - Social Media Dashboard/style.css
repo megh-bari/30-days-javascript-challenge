@@ -61,7 +61,7 @@ body {
 
 .btn {
     display: block;
-    margin: 15px auto;
+    margin: 15px 20px;
     padding: 12px 20px;
     background-color: #1877f2;
     color: #ffffff;
@@ -79,4 +79,62 @@ body {
 .btn:active {
     background-color: #1655c0;
     transform: scale(0.98);
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        height: auto;
+        width: 60%;
+    }
+
+    .image-section, .button-section {
+        flex: none;
+        width: 60%;
+    }
+
+    .button-section h1 {
+        font-size: 20px;
+    }
+
+    .btn {
+        display: block;
+        margin: 15px auto;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    body {
+        padding: 10px;
+    }
+
+    .container {
+        padding: 10px;
+        width: 100%;
+    }
+    
+    .button-section h1 {
+        font-size: 14px;
+    }
+
+    .btn {
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .container {
+        padding: 10px;
+        width: 100%;
+    }
+
+    .button-section h1 {
+        font-size: 14px;
+    }
+
+    .btn {
+        font-size: 12px;
+        padding: 8px 18px;
+    }
 }

@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         if (user) {
             sessionStorage.setItem('loggedInUser', username); // Store username in sessionStorage
+            sessionStorage.setItem('userEmail', user.email);  // Store email in sessionStorage
             alert('Login successful!');
             window.location.href = '../dashboard/dashboard.html'; // Redirect to dashboard
         } else {
