@@ -253,9 +253,13 @@
 
 - Repo: [Weather App](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2024%20-%20Weather%20App)
 
+- Visit : [Weather App](https://app.netlify.com/sites/weather-forcast-web-app/overview)
+
 ## Day 25: Project 2: Movies Search App
 
 - Repo: [Movies Search App](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2025%20-%20Movie%20Search%20App)
+
+- Visit: [Movies Search App](https://movies-search-webapp.netlify.app/)
 
 ## Day 26: Project 3: Chat Application
 
@@ -265,10 +269,16 @@
 
 - Repo: [Task Management App](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2027%20-%20Task%20Management%20App)
 
+- Visit: [Task Management App](https://taskmanagementwebapp.netlify.app/)
+
 ## Day 28: Project 5: Ecommerce Website
 
 - Repo: [Ecommerce Website](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2028%20-%20Ecommerce%20Website)
 
-## Day 29: Project 6: Soical Media Dashboard
+- Visit: [Ecommerce Website](https://gadget-arena-site.netlify.app/)
+
+## Day 29 & 30: Project 6: Soical Media Dashboard
 
 - Repo: [Soical Media Dashboard](https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2029%20-%20Social%20Media%20Dashboard)
+
+- Visit: [Social Media App](https://echosocial-app.vercel.app/)
